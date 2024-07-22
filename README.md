@@ -1,4 +1,4 @@
-# N-Queens with Regions Solver in Python
+# LinkedIN Queens Solver in Python
 
 Welcome to the N-Queens Solver repository! This project provides an implementation of the classic N-Queens problem but with the variations of the LinkedIn Game in Python. The N-Queens problem is a popular algorithmic puzzle that involves placing N chess queens on an N×N chessboard so that no two queens threaten each other.
 The N-Queens problem is a classic computer science problem. It is used to teach algorithms, recursion, and backtracking. This repository contains a Python solution that efficiently solves the problem for any given N. The [LinkedIn Game](https://www.linkedin.com/games/queens/) 
